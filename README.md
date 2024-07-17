@@ -47,28 +47,6 @@ The performance of the models is evaluated using Mean Absolute Error (MAE) and c
   - MAE: 100736.04
   - Cross-validation score: 0.915
 
-## Usage
-
-To run the project, follow these steps:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/car-price-prediction.git
-    cd car-price-prediction
-    ```
-
-2. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. Run the data preprocessing and model training scripts:
-    ```sh
-    python src/preprocessing.py
-    python src/train_model.py
-    ```
-
-4. View the results in the `results` directory.
 
 ## Requirements
 
